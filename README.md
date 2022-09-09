@@ -14,3 +14,8 @@
 9) [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
 10) [Count Visible Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 11) [Largest Alphabetic Character](https://leetcode.com/discuss/interview-question/548119/)
+12) Given an array of integers(+ve,-ve and 0) find the sign of the product of all the given values.
+13) Given an integer(+ve or -ve) consisting of at least one 5 in its digits(can have more than one 5). Return the maximum value by deleting exactly one 5 from its digit.
+Ex: N = 1598 => result = 198(remove the only 5 from the sequence)
+N = 150,958 => result = 15,098(we wanna return the maximum value 15,098 > 10,958)
+N = -5859 => result = -589 ( -589>- 859)
